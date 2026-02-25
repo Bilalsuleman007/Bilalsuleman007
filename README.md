@@ -1,6 +1,6 @@
 
-# 🛡️ Hello, I'm [Your Name]!
-### Aspiring Cybersecurity Professional | [Optional: Your Current City/Region]
+# 🛡️ Hello, I'm [Bilal Suleman]!
+### Aspiring Cybersecurity Professional 
 
 ## 👋 About Me
 I am a dedicated learner transitioning into the world of technology and security. My background is in **[Your Background, e.g., Customer Service / Healthcare / Student]**, which has taught me how to stay calm under pressure and solve complex problems—skills I am now applying to digital defense. 
