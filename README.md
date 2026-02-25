@@ -1,3 +1,11 @@
+
+# 🛡️ Hello, I'm [Your Name]!
+### Aspiring Cybersecurity Professional | [Optional: Your Current City/Region]
+
+## 👋 About Me
+I am a dedicated learner transitioning into the world of technology and security. My background is in **[Your Background, e.g., Customer Service / Healthcare / Student]**, which has taught me how to stay calm under pressure and solve complex problems—skills I am now applying to digital defense. 
+
+
 # 🛡️ My Cybersecurity Portfolio
 
 ## Professional Statement
