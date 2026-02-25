@@ -1,12 +1,26 @@
-# Hi, I'm [Bilal Suleman] 👋
+# 🛡️ My Cybersecurity Portfolio
 
-## 🛡️ Professional Statement
-I am an aspiring **Cybersecurity Professional** currently completing the **Google Cybersecurity Professional Certificate**. I am building hands-on expertise in identifying security threats, managing risks using the **NIST Cybersecurity Framework**, and utilizing tools like **SQL, Python, and Linux**. My goal is to help organizations protect their data and strengthen their security posture through proactive analysis and incident response.
+## Professional Statement
+**Goal & Intent:** I am an aspiring Cybersecurity Professional currently completing the Google Cybersecurity Professional Certificate. My goal is to secure an entry-level position where I can apply my skills in risk management and threat mitigation to protect organizational assets.
 
-## 🚀 Cybersecurity Progress
-- [x] **Course 1:** Foundations of Cybersecurity (Completed)
-- [ ] **Course 2:** Play It Safe: Manage Security Risks (In Progress)
-- [ ] **Course 3:** Connect and Protect: Networks and Network Security
+**Strengths & Values:** I am a proactive problem-solver with a high value for security ethics and data integrity. My core strengths lie in detail-oriented analysis and a dedication to staying updated on the evolving threat landscape.
+
+**Why Cybersecurity?** I am genuinely passionate about this field because I want to be part of the front-line defense that protects individuals and businesses from digital harm. I thrive in environments that require continuous learning and technical vigilance.
+
+**Current Skillset:**
+- **Frameworks:** NIST Cybersecurity Framework (CSF) & CIA Triad.
+- **Tools:** Identifying vulnerabilities, managing assets, and documenting security audits.
+- **Technical Skills:** Developing proficiency in SQL, Linux (Bash), and Python for security tasks.
+
+---
 
 ## 📁 Portfolio Projects
-*Projects will be added as they are completed during the certification.*
+*I will add my project files and reports below as I complete each course.*
+
+### [Course 2] Internal Security Audit: Botium Toys
+- [ ] Status: In Progress
+- [ ] Description: Analyzing security controls and compliance.
+
+### [Course 3] Network Analysis & Security
+- [ ] Status: In Progress
+- [ ] Description: Understanding data flow and network protection.
