@@ -1,5 +1,5 @@
 
-# 🛡️ Hello, I'm [Bilal Suleman]!
+# 🛡️ Hello, I'm Bilal Suleman!
 ### Aspiring Cybersecurity Professional 
 
 ## 👋 About Me
