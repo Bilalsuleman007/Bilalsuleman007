@@ -3,7 +3,7 @@
 ### Aspiring Cybersecurity Professional 
 
 ## 👋 About Me
-I am a dedicated learner transitioning into the world of technology and security. My background is in **[Your Background, e.g., Customer Service / Healthcare / Student]**, which has taught me how to stay calm under pressure and solve complex problems—skills I am now applying to digital defense. 
+I am a dedicated learner transitioning into the world of technology and security. My background is in as **[a student and I have been selling products online in Pakistan for 2 years]**, which has taught me how to stay calm under pressure and solve complex problems—skills I am now applying to digital defense. 
 
 
 # 🛡️ My Cybersecurity Portfolio
