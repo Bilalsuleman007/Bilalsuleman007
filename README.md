@@ -22,3 +22,4 @@ I am a dedicated learner transitioning into the world of technology and security
 
 ## 📁 My Learning Path (Google Cybersecurity Certificate)
 
+[View my Security Audit](Course 2 Botium_Toys_Security_Audit.pdf)
