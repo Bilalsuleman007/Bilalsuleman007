@@ -19,3 +19,6 @@ I am a dedicated learner transitioning into the world of technology and security
 - **Frameworks:** NIST Cybersecurity Framework (CSF) & CIA Triad.
 - **Tools:** Identifying vulnerabilities, managing assets, and documenting security audits.
 - **Technical Skills:** Developing proficiency in SQL, Linux (Bash), and Python for security tasks.
+
+## 📁 My Learning Path (Google Cybersecurity Certificate)
+
