@@ -22,4 +22,8 @@ I am a dedicated learner transitioning into the world of technology and security
 
 ## 📁 My Learning Path (Google Cybersecurity Certificate)
 
-[View my Security Audit](Course 2 Botium_Toys_Security_Audit.pdf)
+## 🛡️ Course 2: Play It Safe: Manage Security Risks
+### Project: Botium Toys Security Audit
+I conducted a security audit for a fictional company to identify vulnerabilities and suggest security controls.
+
+[Click here to view my Security Audit Report](Botium_Toys_Security_Audit.pdf)
