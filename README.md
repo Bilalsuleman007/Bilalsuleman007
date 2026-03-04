@@ -27,3 +27,9 @@ I am a dedicated learner transitioning into the world of technology and security
 I conducted a security audit for a fictional company to identify vulnerabilities and suggest security controls.
 
 [Click here to view my Security Audit Report](Botium_Toys_Security_Audit.pdf)
+
+## Course 3: Connect and Protect: Networks and Network Security
+### Project: Network Traffic Analysis (DNS & ICMP)
+I analyzed a network incident using tcpdump logs to identify a DNS failure and tracked the error using ICMP protocol messages.
+
+[View Network Traffic Analysis](./Course-3/Analyze_network_layer_communication.pdf)
