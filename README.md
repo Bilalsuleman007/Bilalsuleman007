@@ -13,25 +13,18 @@ I am currently completing the **Google Cybersecurity Professional Certificate**,
 * **Analysis:** Security Audits, Vulnerability Assessment, Network Traffic Analysis
 * **Tools:** Linux/Bash, SQL, Python (In Progress), tcpdump
 
----
+## 📁 Featured Projects
 
-## 📁 Portfolio Projects
+### 🛡️ Security Risk Management (Course 2)
+**Project: Botium Toys Internal Security Audit**
+* I conducted a comprehensive security audit to identify vulnerabilities and recommend NIST-aligned security controls.
+* [View Security Audit Report](./Botium_Toys_Security_Audit.pdf)
 
-## 📁 My Learning Path (Google Cybersecurity Certificate)
+### 🌐 Network Security & Defense (Course 3)
+**Project: Network Traffic Analysis (DNS & ICMP)**
+* Analyzed `tcpdump` logs to diagnose a DNS failure where port 53 was unreachable, confirmed via ICMP error packets.
+* [View Network Analysis Report](./Course-3/Analyze_network_layer_communication_report.pdf)
 
-## 🛡️ Course 2: Play It Safe: Manage Security Risks
-### Project: Botium Toys Security Audit
-I conducted a security audit for a fictional company to identify vulnerabilities and suggest security controls.
-
-[Click here to view my Security Audit Report](Botium_Toys_Security_Audit.pdf)
-
-## Course 3: Connect and Protect: Networks and Network Security
-### Project: Network Traffic Analysis (DNS & ICMP)
-I analyzed a network incident using tcpdump logs to identify a DNS failure and tracked the error using ICMP protocol messages.
-
-[View Network Traffic Analysis](./Course-3/Analyze_network_layer_communication.pdf)
-
-### Project: Network Attack Analysis (SYN Flood)
-I investigated a network security incident involving a service timeout on a travel agency web server. Using packet sniffer data, I identified a TCP SYN flood attack, implemented firewall blocks, and proposed long-term mitigation strategies like SYN cookies to prevent future IP spoofing-based DoS attacks.
-
-[View Network Attack Report](./Course-3/Analysis_Network_Attacks.pdf)
+**Project: Network Attack Analysis (SYN Flood)**
+* Investigated a DoS attack on a web server. Identified malicious SYN traffic, implemented firewall blocks, and proposed SYN cookie mitigation.
+* [View Network Attack Report](./Course-3/Network_Attack_Analysis_SYN_Flood.pdf)
