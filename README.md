@@ -20,11 +20,3 @@ I am currently completing the **Google Cybersecurity Professional Certificate**,
 * I conducted a comprehensive security audit to identify vulnerabilities and recommend NIST-aligned security controls.
 * [View Security Audit Report](./Botium_Toys_Security_Audit.pdf)
 
-### 🌐 Network Security & Defense (Course 3)
-**Project: Network Traffic Analysis (DNS & ICMP)**
-* Analyzed `tcpdump` logs to diagnose a DNS failure where port 53 was unreachable, confirmed via ICMP error packets.
-* [View Network Analysis Report](./Course-3/Analyze_network_layer_communication_report.pdf)
-
-**Project: Network Attack Analysis (SYN Flood)**
-* Investigated a DoS attack on a web server. Identified malicious SYN traffic, implemented firewall blocks, and proposed SYN cookie mitigation.
-* [View Network Attack Report](./Course-3/Network_Attack_Analysis_SYN_Flood.pdf)
